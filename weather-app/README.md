@@ -3,7 +3,7 @@
 
 Este é um aplicativo de previsão do tempo construído usando React, Axios, OpenWeather API, e Leaflet.
 
-![Visualização do App](https://github.com/rafaelmsp/previsaodotempo2.0/weather-app/src/imagens/screenshot.jpg)
+![Visualização do App](https://github.com/rafaelmsp/previsaodotempo2.0/blob/main/weather-app/src/imagens/screenshot.jpg)
 
 ## Funcionalidades
 
